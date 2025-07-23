@@ -13,8 +13,13 @@
 - [License](#License)
 - [About Analyst](#About-the-Analyst)
 
+
+![claudio-schwarz-628M6D91QX0-unsplash](https://github.com/user-attachments/assets/55b1037b-b1ee-4457-9e1a-559fea3bd9f9)
+
+
 ### 📝 Project Overview
 In today's competitive business landscape, understanding sales performance is crucial for sustainable growth. This project leverages Tableau to visualize and analyze sales data, transforming raw information into clear, interactive dashboards. The analysis covers various aspects of sales, including overall key metrics, customer profitability, product performance, sales by category, and geographical distribution.
+
 ---
 
 ### 🎯 Objectives
@@ -39,11 +44,20 @@ The analysis is based on a sales dataset, typically containing information such 
 - Shipping Information: Ship Mode
 ---
 
+![todd-quackenbush-IClZBVw5W5A-unsplash](https://github.com/user-attachments/assets/e5111834-4d71-494f-8e7e-db47b7319d89)
+
 ### Methodology
 1. Data Connection & Preparation:
 - Connected to the raw sales data in Tableau.
 - I used unique identifier of each dimension table to establish an inner join with sales fact table.
 - Performed necessary data cleaning and transformations (e.g., date formatting, creating calculated fields for profit ratio, AOV, etc.).
+
+2. Tools Used
+- Azure SQL Data Studion - For Data Extraction
+- Microsoft Excel Power - For cleaning and Data Transformation processes
+- Tableau Desktop - Data Visualization
+- Tableau Public - For Proper Publication and documentation
+- Github - Also for documentation.
 
 2. Dashboard Design & Development:
 - Created multiple interactive dashboards, each focusing on a specific aspect of sales performance.
@@ -63,6 +77,8 @@ The project includes the following key dashboards:
 1. Sales Overview Dashboard
 This dashboard provides a high-level summary of key sales metrics and overall performance
 
+<img width="1318" height="800" alt="Screenshot 2025-07-23 205016" src="https://github.com/user-attachments/assets/83c8546c-0fb8-44a1-b7c1-8e4e21ff97fe" />
+
 - Components:
 
  - Key Metrics: Displays Profit, Profit Ratio, Sales, Order Count, AOV, and Avg. Days to Ship.
@@ -74,6 +90,9 @@ This dashboard provides a high-level summary of key sales metrics and overall pe
 2. Performance by Location Dashboard
 This dashboard focuses on geographical sales performance.
 
+<img width="1302" height="788" alt="Screenshot 2025-07-23 205227" src="https://github.com/user-attachments/assets/49f9dfda-d53c-4ed0-ac79-d2fa28fef4ec" />
+
+
 - Components:
   - Top N States by Sales: A bar chart displaying the top N states based on sales, with a dynamic filter to adjust N.
   - States by Sales (Map): A choropleth map visualizing sales performance across different states, color-coded by region.
@@ -83,10 +102,15 @@ This dashboard focuses on geographical sales performance.
 3. Revenue by Ship Mode & Sub-Category Dashboard
 This dashboard provides a detailed breakdown of revenue by shipping mode and product sub-category.
 
+<img width="1299" height="797" alt="Screenshot 2025-07-23 205126" src="https://github.com/user-attachments/assets/d86b614d-f44d-4f58-a814-a82f95e8c267" />
+
 - Components:
   - Revenue By Ship Mode & Sub-Category Table: A detailed table showing revenue for each sub-category across different shipping modes (First Class, Same Day, Second Class, Standard Class). This helps identify which sub-categories perform best with certain shipping methods.
  ---
+ 
+![rohan-makhecha-jw3GOzxiSkw-unsplash](https://github.com/user-attachments/assets/bf1c6ae9-3579-48a2-ab01-9b4b3067c041)
 
+ 
 ### 💡Key Insights and Recommendations
 1. Customer Profitability Optimization: Conduct a deeper analysis into the characteristics of these unprofitable customers. This could involve examining their purchase history, return rates, discount utilization, or service costs. Develop targeted strategies to either improve their profitability (e.g., through upselling, cross-selling, or reducing service costs) or re-evaluate the viability of serving these segments.
   
