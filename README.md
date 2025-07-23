@@ -1,28 +1,19 @@
 # Comprehensive Sales Performance Analysis (Tableau)
-This repository contains a comprehensive sales performance analysis project carried out using Tableau. The goal of this project is to provide actionable insights into sales trends, profitability, customer behavior, and geographical performance to inform strategic business decisions.
----
+
 
 
 ### Table of Contents
-- Project Overview
+- [Project Overview](#Project-Overview)
+- [Objectives](#Objectives)
+- [Data Source](#Data-Source)
+- [Methodology](#Methodology)
+- [Key Dashboards](#Key-Dashboards)
+- [Key Insights and Recommendations](#Key-Insights-and-Recommendations)
+- [How to Use](#How-to-Use)
+- [License](#License)
+- [About Analyst](#About-the-Analyst)
 
-Objectives
-
-Data Source
-
-Methodology
-
-Key Dashboards
-
-Key Insights and Recommendations
-
-How to Use
-
-Repository Structure
-
-Contact
-
-### 📝 Overview
+### 📝 Project Overview
 In today's competitive business landscape, understanding sales performance is crucial for sustainable growth. This project leverages Tableau to visualize and analyze sales data, transforming raw information into clear, interactive dashboards. The analysis covers various aspects of sales, including overall key metrics, customer profitability, product performance, sales by category, and geographical distribution.
 ---
 
