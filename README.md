@@ -127,6 +127,7 @@ This dashboard provides a detailed breakdown of revenue by shipping mode and pro
 - Recommendation: Analyze the preferred shipping modes for high-value or high-volume sub-categories. Optimize logistics and shipping partnerships based on these insights to reduce costs or improve delivery times, thereby enhancing customer satisfaction and potentially increasing sales.
 
 Overall Sales Health & Trends: The key metrics show healthy overall sales and profit ratios, with monthly profit trends indicating seasonality or growth patterns.
+
 ---
 
 ### How to Use
@@ -144,10 +145,13 @@ This project uses the Sample Sales Dataset provided by [Corporate Finance Instit
 ---
 ### 🙋‍♂️ About the Analyst
 I’m a Data Analyst passionate about uncovering patterns in consumer markets. I specialize in Excel, Power BI, SQL, and Python for data storytelling and automation. Through this project, I demonstrated the power of local market analytics in decision-making.
-📬 Contact
+
+---
+### 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/oforah/)
 - [Email](chukwudumejeoforah@gmail.com)
 - [Portfolio](https://oforah007.github.io/Website-Demo/)
+- [Tableau Public](https://public.tableau.com/app/profile/chukwudumeje.oforah/viz/ComprehensiveSalesPerformanceAnalysis/SalesDashboard)
 
 
 
