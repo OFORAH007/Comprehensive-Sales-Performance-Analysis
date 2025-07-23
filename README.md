@@ -1,10 +1,30 @@
 # Comprehensive Sales Performance Analysis (Tableau)
 This repository contains a comprehensive sales performance analysis project carried out using Tableau. The goal of this project is to provide actionable insights into sales trends, profitability, customer behavior, and geographical performance to inform strategic business decisions.
+---
 
+
+### Table of Contents
+- Project Overview
+
+Objectives
+
+Data Source
+
+Methodology
+
+Key Dashboards
+
+Key Insights and Recommendations
+
+How to Use
+
+Repository Structure
+
+Contact
 
 ### 📝 Overview
 In today's competitive business landscape, understanding sales performance is crucial for sustainable growth. This project leverages Tableau to visualize and analyze sales data, transforming raw information into clear, interactive dashboards. The analysis covers various aspects of sales, including overall key metrics, customer profitability, product performance, sales by category, and geographical distribution.
-
+---
 
 ### 🎯 Objectives
 The primary objectives of this sales performance analysis are to:
@@ -16,7 +36,7 @@ The primary objectives of this sales performance analysis are to:
 6. Analyze Revenue by Ship Mode: Understand the impact of different shipping methods on revenue across sub-categories.
 7. Examine Order Origin: Gain insights into the percentage of orders by country of manufacture.
 8. Provide Actionable Insights: Generate data-driven recommendations to optimize sales strategies, improve profitability, and enhance operational efficiency.
-
+---
 
 ### Data Source
 The analysis is based on a sales dataset, typically containing information such as:
@@ -26,7 +46,7 @@ The analysis is based on a sales dataset, typically containing information such 
 - Customer Information: Customer ID, Customer Name, Segment
 - Geographical Data: State, Region, Country
 - Shipping Information: Ship Mode
-
+---
 
 ### Methodology
 1. Data Connection & Preparation:
@@ -44,7 +64,7 @@ The analysis is based on a sales dataset, typically containing information such 
 - Analyzed trends and patterns within each dashboard.
 - Identified key insights related to profitability, top performers, areas for improvement, and potential risks.
 - Formulated actionable recommendations based on the data.
-
+---
 
 Key Dashboards
 The project includes the following key dashboards:
@@ -74,7 +94,7 @@ This dashboard provides a detailed breakdown of revenue by shipping mode and pro
 
 - Components:
   - Revenue By Ship Mode & Sub-Category Table: A detailed table showing revenue for each sub-category across different shipping modes (First Class, Same Day, Second Class, Standard Class). This helps identify which sub-categories perform best with certain shipping methods.
- 
+ ---
 
 ### 💡Key Insights and Recommendations
 1. Customer Profitability Optimization: Conduct a deeper analysis into the characteristics of these unprofitable customers. This could involve examining their purchase history, return rates, discount utilization, or service costs. Develop targeted strategies to either improve their profitability (e.g., through upselling, cross-selling, or reducing service costs) or re-evaluate the viability of serving these segments.
@@ -92,7 +112,7 @@ This dashboard provides a detailed breakdown of revenue by shipping mode and pro
 - Recommendation: Analyze the preferred shipping modes for high-value or high-volume sub-categories. Optimize logistics and shipping partnerships based on these insights to reduce costs or improve delivery times, thereby enhancing customer satisfaction and potentially increasing sales.
 
 Overall Sales Health & Trends: The key metrics show healthy overall sales and profit ratios, with monthly profit trends indicating seasonality or growth patterns.
-
+---
 
 ### How to Use
 To view and interact with these dashboards:
@@ -102,10 +122,18 @@ To view and interact with these dashboards:
 
 Placeholder: [VIEW](https://public.tableau.com/app/profile/chukwudumeje.oforah/viz/ComprehensiveSalesPerformanceAnalysis/SalesDashboard)
 
+---
 ### 📜 License
 This project uses the Sample Sales Dataset provided by [Corporate Finance Institute Canada](https://corporatefinanceinstitute.com/), intended for educational and analytical demonstration purposes.
 
+---
 ### 🙋‍♂️ About the Analyst
+I’m a Data Analyst passionate about uncovering patterns in consumer markets. I specialize in Excel, Power BI, SQL, and Python for data storytelling and automation. Through this project, I demonstrated the power of local market analytics in decision-making.
+📬 Contact
+- [LinkedIn](https://www.linkedin.com/in/oforah/)
+- [Email](chukwudumejeoforah@gmail.com)
+- [Portfolio](https://oforah007.github.io/Website-Demo/)
+
 
 
 
