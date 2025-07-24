@@ -18,12 +18,12 @@
 ![claudio-schwarz-628M6D91QX0-unsplash](https://github.com/user-attachments/assets/55b1037b-b1ee-4457-9e1a-559fea3bd9f9)
 
 
-### 📝 Project Overview
+###📝 Project Overview
 In today's competitive business landscape, understanding sales performance is crucial for sustainable growth. This project leverages Tableau to visualize and analyze sales data, transforming raw information into clear, interactive dashboards. The analysis covers various aspects of sales, including overall key metrics, customer profitability, product performance, sales by category, and geographical distribution.
 
 ---
 
-### 🎯 Objectives
+###🎯 Objectives
 The primary objectives of this sales performance analysis are to:
 1. Monitor Key Sales Metrics: Track essential performance indicators such as Profit, Profit Ratio, Sales, Order Count, Average Order Value (AOV), and Average Days to Ship.
 2. Identify Profitable and Unprofitable Customers: Segment customers based on their profitability to inform targeted marketing and sales strategies.
