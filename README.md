@@ -11,7 +11,7 @@
 - [Key Insights and Recommendations](#Key-Insights-and-Recommendations)
 - [How to Use](#How-to-Use)
 - [License](#License)
-- [About Analyst](#About-the-Analyst)
+- [About the Analyst](#About-the-Analyst)
 
 
 ![claudio-schwarz-628M6D91QX0-unsplash](https://github.com/user-attachments/assets/55b1037b-b1ee-4457-9e1a-559fea3bd9f9)
@@ -71,7 +71,7 @@ The analysis is based on a sales dataset, typically containing information such 
 - Formulated actionable recommendations based on the data.
 ---
 
-Key Dashboards
+### 📋 Key Dashboards
 The project includes the following key dashboards:
 
 1. Sales Overview Dashboard
