@@ -53,11 +53,11 @@ The analysis is based on a sales dataset, typically containing information such 
 - Performed necessary data cleaning and transformations (e.g., date formatting, creating calculated fields for profit ratio, AOV, etc.).
 
 2. Tools Used
-- Azure SQL Data Studion - For Data Extraction
-- Microsoft Excel Power - For cleaning and Data Transformation processes
-- Tableau Desktop - Data Visualization
-- Tableau Public - For Proper Publication and documentation
-- Github - Also for documentation.
+- Azure SQL Data Studion - For Data Extraction [Download](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall)
+- Microsoft Excel (Power Query) - For cleaning and Data Transformation processes [Download](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Tableau Desktop - Data Visualization [Download](https://www.tableau.com/products/desktop/download)
+- Tableau Public - For Proper Publication and documentation [Access](https://public.tableau.com/app/discover)
+- Github - Also for documentation [Access](https://github.com/)
 
 2. Dashboard Design & Development:
 - Created multiple interactive dashboards, each focusing on a specific aspect of sales performance.
