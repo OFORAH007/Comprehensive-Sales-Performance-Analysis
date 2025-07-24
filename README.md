@@ -48,25 +48,25 @@ The analysis is based on a sales dataset, typically containing information such 
 ![todd-quackenbush-IClZBVw5W5A-unsplash](https://github.com/user-attachments/assets/e5111834-4d71-494f-8e7e-db47b7319d89)
 
 ### 🧮Methodology
-1. Data Connection & Preparation:
+1. *Data Connection & Preparation*:
 - Connected to the raw sales data in Tableau.
 - I used unique identifier of each dimension table to establish an inner join with sales fact table.
 - Performed necessary data cleaning and transformations (e.g., date formatting, creating calculated fields for profit ratio, AOV, etc.).
 
-2. Tools Used
+2. *Tools Used*:
 - Azure SQL Data Studion - For Data Extraction [Download](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall)
 - Microsoft Excel (Power Query) - For cleaning and Data Transformation processes [Download](https://www.microsoft.com/en-us/microsoft-365/excel)
 - Tableau Desktop - Data Visualization [Download](https://www.tableau.com/products/desktop/download)
 - Tableau Public - For Proper Publication and documentation [Access](https://public.tableau.com/app/discover)
 - Github - Also for documentation [Access](https://github.com/)
 
-2. Dashboard Design & Development:
+2. *Dashboard Design & Development*:
 - Created multiple interactive dashboards, each focusing on a specific aspect of sales performance.
 - Utilized various chart types (bar charts, line charts, scatter plots, treemaps, maps, pie charts, tables) to effectively visualize the data.
 - Implemented filters (e.g., OrderDate, Segment, Top N Sales) to allow for dynamic exploration of the data.
 - Ensured a clean, intuitive, and visually appealing layout for easy interpretation.
 
-3. Analysis and Interpretation:
+3. *Analysis and Interpretation*:
 - Analyzed trends and patterns within each dashboard.
 - Identified key insights related to profitability, top performers, areas for improvement, and potential risks.
 - Formulated actionable recommendations based on the data.
@@ -131,7 +131,7 @@ This dashboard provides a detailed breakdown of revenue by shipping mode and pro
 Overall Sales Health & Trends: The key metrics show healthy overall sales and profit ratios, with monthly profit trends indicating seasonality or growth patterns.
 
 ---
-### 🧰 How to Use
+### 🧰How to Use
 To view and interact with these dashboards:
 - Tableau Desktop: If you have Tableau Desktop, you can open the .twbx file directly.
 - Tableau Reader: If you don't have Tableau Desktop, you can download Tableau Reader (free) to open and interact with the packaged workbook.
@@ -140,15 +140,15 @@ To view and interact with these dashboards:
 Placeholder: [VIEW](https://public.tableau.com/app/profile/chukwudumeje.oforah/viz/ComprehensiveSalesPerformanceAnalysis/SalesDashboard)
 
 ---
-### 📜 License
+### 📜License
 This project uses the Sample Sales Dataset provided by [Corporate Finance Institute Canada](https://corporatefinanceinstitute.com/), intended for educational and analytical demonstration purposes.
 
 ---
-### 🙋‍♂️ About the Analyst
+### 🙋‍♂️About the Analyst
 I’m a Data Analyst passionate about uncovering patterns in consumer markets. I specialize in Excel, Power BI, SQL, and Python for data storytelling and automation. Through this project, I demonstrated the power of local market analytics in decision-making.
 
 ---
-### 📬 Contact
+### 📬Contact
 - [LinkedIn](https://www.linkedin.com/in/oforah/)
 - [Email](chukwudumejeoforah@gmail.com)
 - [Portfolio](https://oforah007.github.io/Website-Demo/)
