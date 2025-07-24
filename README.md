@@ -18,12 +18,12 @@
 ![claudio-schwarz-628M6D91QX0-unsplash](https://github.com/user-attachments/assets/55b1037b-b1ee-4457-9e1a-559fea3bd9f9)
 
 
-###📝 Project Overview
+### 📝Project Overview
 In today's competitive business landscape, understanding sales performance is crucial for sustainable growth. This project leverages Tableau to visualize and analyze sales data, transforming raw information into clear, interactive dashboards. The analysis covers various aspects of sales, including overall key metrics, customer profitability, product performance, sales by category, and geographical distribution.
 
 ---
 
-###🎯 Objectives
+### 🎯Objectives
 The primary objectives of this sales performance analysis are to:
 1. Monitor Key Sales Metrics: Track essential performance indicators such as Profit, Profit Ratio, Sales, Order Count, Average Order Value (AOV), and Average Days to Ship.
 2. Identify Profitable and Unprofitable Customers: Segment customers based on their profitability to inform targeted marketing and sales strategies.
@@ -35,7 +35,7 @@ The primary objectives of this sales performance analysis are to:
 8. Provide Actionable Insights: Generate data-driven recommendations to optimize sales strategies, improve profitability, and enhance operational efficiency.
 ---
 
-### Data Source
+### ℹ️Data Source
 The analysis is based on a sales dataset, typically containing information such as:
 - Order Details: Order Date, Ship Date, Order ID
 - Product Information: Product ID, Product Name, Category, Sub-Category
@@ -47,7 +47,7 @@ The analysis is based on a sales dataset, typically containing information such 
 
 ![todd-quackenbush-IClZBVw5W5A-unsplash](https://github.com/user-attachments/assets/e5111834-4d71-494f-8e7e-db47b7319d89)
 
-### Methodology
+### 🧮Methodology
 1. Data Connection & Preparation:
 - Connected to the raw sales data in Tableau.
 - I used unique identifier of each dimension table to establish an inner join with sales fact table.
@@ -72,7 +72,8 @@ The analysis is based on a sales dataset, typically containing information such 
 - Formulated actionable recommendations based on the data.
 ---
 
-### 📋 Key Dashboards
+
+### 📋Key Dashboards
 The project includes the following key dashboards:
 
 1. Sales Overview Dashboard
