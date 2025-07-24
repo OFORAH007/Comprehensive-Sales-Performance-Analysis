@@ -12,6 +12,7 @@
 - [How to Use](#How-to-Use)
 - [License](#License)
 - [About the Analyst](#About-the-Analyst)
+- [Contact](#Contact)
 
 
 ![claudio-schwarz-628M6D91QX0-unsplash](https://github.com/user-attachments/assets/55b1037b-b1ee-4457-9e1a-559fea3bd9f9)
@@ -129,8 +130,7 @@ This dashboard provides a detailed breakdown of revenue by shipping mode and pro
 Overall Sales Health & Trends: The key metrics show healthy overall sales and profit ratios, with monthly profit trends indicating seasonality or growth patterns.
 
 ---
-
-### How to Use
+### 🧰 How to Use
 To view and interact with these dashboards:
 - Tableau Desktop: If you have Tableau Desktop, you can open the .twbx file directly.
 - Tableau Reader: If you don't have Tableau Desktop, you can download Tableau Reader (free) to open and interact with the packaged workbook.
